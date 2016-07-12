@@ -657,13 +657,13 @@ body {
   content: '点击链接查看'; }
 
 .set-speed #saturn dl.infos dd:after {
-  content: '34,701 km/h'; }
+  content: '我的简历'; }
 
 .set-speed #uranus dl.infos dd:after {
   content: 'nannaditzel@163.com'; }
 
 .set-speed #neptune dl.infos dd:after {
-  content: '19,566 km/h'; }
+  content: '一个‘美工’的自述'; }
 
 /* --------------------------------------------------------------------------- size */
 .set-size dl.infos dd span:after {
